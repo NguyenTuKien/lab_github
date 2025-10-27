@@ -15,7 +15,4 @@
 
 ### Credits
 [Đề bài](https://github.com/Maybetuandat/lab_github)
-<<<<<<< HEAD
 
-=======
->>>>>>> 81bb6a8 (Update README.md file)

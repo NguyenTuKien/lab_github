@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import time
 import pandas as pd
 import numpy as np
@@ -236,9 +235,3 @@ def main():
             break
 
 
-
-=======
-if __name__ == "__main__":
-    print("Hello, Refactoring Branch")
-    # print("This is a bikeshare project.")
->>>>>>> 1582ba8 (Comment second line in bikeshare.py)
